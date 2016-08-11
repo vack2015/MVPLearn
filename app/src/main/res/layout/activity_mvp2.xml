@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="org.vackapi.mvplearn.mvp2.MVP2Activity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_canKing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:navigationIcon="@mipmap/lt"
+        app:title="揭露地球MVP测试"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#aaa"/>
+    <com.handmark.pulltorefresh.library.PullToRefreshRecyclerView
+        android:id="@+id/ptrRecyclerView_canKing"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

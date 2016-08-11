@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".rxjavalearn.RxJavaLearnActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_rxJava"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:navigationIcon="@mipmap/ic_launcher"
+        app:title="@string/app_name"/>
+    <TextView
+        android:id="@+id/textView_rxJava_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar_rxJava"/>
+
+    <LinearLayout
+        android:layout_below="@id/toolbar_rxJava"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/button_rxjava_lambda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:background="@drawable/click"
+            android:padding="6dp"
+            android:text="Observable&amp;Lambda"
+            android:layout_marginTop="16dp"
+            android:onClick="onClick_Rxjava_l"/>
+
+        <Button
+            android:id="@+id/button_rxjava_lambda2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:background="@drawable/click"
+            android:padding="6dp"
+            android:text="Observable&amp;Lambda2"
+            android:layout_marginTop="16dp"
+            android:onClick="onClick_Rxjava_l2"/>
+
+        <Button
+            android:id="@+id/button_rxjava_action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:background="@drawable/click"
+            android:padding="6dp"
+            android:text="Observable&amp;Action"
+            android:layout_marginTop="16dp"
+            android:onClick="onClick_Rxjava_a"/>
+        <Button
+            android:id="@+id/button_rxjava_subscriber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:background="@drawable/click"
+            android:padding="6dp"
+            android:text="Observable&amp;Subscriber"
+            android:layout_marginTop="16dp"
+            android:onClick="onClick_Rxjava_s"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

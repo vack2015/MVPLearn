@@ -1,0 +1,1100 @@
+[
+    {
+        "outputFile": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endColumn": 63,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 63,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 63,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 63,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 54,
+                    "endOffset": 1961
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 54,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1966,
+                    "endColumn": 56,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 56,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 54,
+                    "endOffset": 2073
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2078,
+                    "endColumn": 74,
+                    "endOffset": 2148
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2153,
+                    "endColumn": 75,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endColumn": 71,
+                    "endOffset": 2296
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2301,
+                    "endColumn": 37,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 65,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 41,
+                    "endOffset": 2442
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 42,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2447,
+                    "endColumn": 39,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 40,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2487,
+                    "endColumn": 36,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 37,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 101,
+                    "endOffset": 2621
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 101,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2626,
+                    "endColumn": 113,
+                    "endOffset": 2735
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 113,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2740,
+                    "endColumn": 107,
+                    "endOffset": 2843
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 107,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2848,
+                    "endColumn": 71,
+                    "endOffset": 2915
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 71,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2920,
+                    "endColumn": 69,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 69,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endColumn": 77,
+                    "endOffset": 3063
+                },
+                "from": {
+                    "file": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 77,
+                        "endOffset": 201
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endColumn": 63,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 63,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 63,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 63,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 54,
+                    "endOffset": 1961
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 54,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1966,
+                    "endColumn": 56,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 56,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 54,
+                    "endOffset": 2073
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2078,
+                    "endColumn": 74,
+                    "endOffset": 2148
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2153,
+                    "endColumn": 75,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endColumn": 71,
+                    "endOffset": 2296
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2301,
+                    "endColumn": 37,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 65,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 41,
+                    "endOffset": 2442
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 42,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2447,
+                    "endColumn": 39,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 40,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2487,
+                    "endColumn": 36,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 37,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 101,
+                    "endOffset": 2621
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 101,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2626,
+                    "endColumn": 113,
+                    "endOffset": 2735
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 113,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2740,
+                    "endColumn": 107,
+                    "endOffset": 2843
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 107,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2848,
+                    "endColumn": 71,
+                    "endOffset": 2915
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 71,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2920,
+                    "endColumn": 69,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 69,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endColumn": 77,
+                    "endOffset": 3063
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 77,
+                        "endOffset": 201
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endColumn": 63,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 63,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 63,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 63,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 54,
+                    "endOffset": 1961
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 54,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1966,
+                    "endColumn": 56,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 56,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 54,
+                    "endOffset": 2073
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2078,
+                    "endColumn": 74,
+                    "endOffset": 2148
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2153,
+                    "endColumn": 75,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endColumn": 71,
+                    "endOffset": 2296
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2301,
+                    "endColumn": 37,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 65,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 41,
+                    "endOffset": 2442
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 42,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2447,
+                    "endColumn": 39,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 40,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2487,
+                    "endColumn": 36,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 37,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 101,
+                    "endOffset": 2621
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 101,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2626,
+                    "endColumn": 113,
+                    "endOffset": 2735
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 113,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2740,
+                    "endColumn": 107,
+                    "endOffset": 2843
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 107,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2848,
+                    "endColumn": 71,
+                    "endOffset": 2915
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 71,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2920,
+                    "endColumn": 69,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 69,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endColumn": 77,
+                    "endOffset": 3063
+                },
+                "from": {
+                    "file": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 77,
+                        "endOffset": 201
+                    }
+                }
+            }
+        ]
+    }
+]

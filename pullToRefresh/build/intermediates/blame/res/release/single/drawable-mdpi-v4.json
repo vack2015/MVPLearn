@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    }
+]

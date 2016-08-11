@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\PROJECT\\TongHuaZhen\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\SomeProject\\MVCLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\SomeProject\\MVPLearn\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    }
+]
