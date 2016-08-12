@@ -3,36 +3,60 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#fff"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".mvp2.CanKingDetailActivity">
-    <android.support.v7.widget.Toolbar
-        android:id="@+id/toolbar_canKing_detail"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:navigationIcon="@mipmap/lt"
-        app:title="揭露地球"/>
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="#aaa"/>
-    <TextView
-        android:id="@+id/textView_canKingDetail_title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:minLines="2"
-        android:gravity="center"
-        android:textStyle="bold"/>
-    <TextView
-        android:id="@+id/textView_canKingDetail_date"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="right"/>
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:background="#aaa"/>
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar_canKing_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:navigationIcon="@mipmap/lt"
+                app:title="揭露地球"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#aaa"/>
+            <TextView
+                android:id="@+id/textView_canKingDetail_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minLines="2"
+                android:gravity="center"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/textView_canKingDetail_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:background="#aaa"/>
+            <org.vackapi.mvplearn.customview.MyWebView
+                android:id="@+id/mywebView_canKing_Detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:textSize="18sp"
+                android:textColor="#aaa"
+                android:text="感谢童话镇网络信息技术有限公司的数据"/>
+
+        </LinearLayout>
+
+    </ScrollView>
 
 </LinearLayout>

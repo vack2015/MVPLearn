@@ -1,5 +1,9 @@
 package org.vackapi.mvplearn.mvp2.moudle;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
+
 /**
  * Created by Administrator on 2016/8/10.
  */
@@ -48,6 +52,12 @@ public class CanKingDetail {
     }
 
     public void setPost_content(String post_content) {
+        Document document= Jsoup.parse(post_content);
+        Elements elements=document.getElementsByTag("img");
+        for(int i=0;i<elements.size();i++){
+            elements.get(i).attr("width","100%").attr("height","auto");
+        }
+        post_content=document.toString();
         this.post_content = post_content;
     }
 }

@@ -1,4 +1,4 @@
-package org.vackapi.mvplearn.mvp2;
+package org.vackapi.mvplearn.mvp2.presenter;
 
 import org.vackapi.mvplearn.mvp2.moudle.CanKingItem;
 

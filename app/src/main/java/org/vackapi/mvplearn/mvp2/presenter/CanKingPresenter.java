@@ -1,9 +1,10 @@
-package org.vackapi.mvplearn.mvp2;
-
-import android.content.Intent;
+package org.vackapi.mvplearn.mvp2.presenter;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+
+import org.vackapi.mvplearn.mvp2.CanKingItemAdapter;
+import org.vackapi.mvplearn.mvp2.CanKingViewOperater;
 import org.vackapi.mvplearn.mvp2.moudle.CanKingFactory;
 import org.vackapi.mvplearn.mvp2.moudle.CanKingItem;
 

@@ -14,6 +14,7 @@ import com.handmark.pulltorefresh.library.PullToRefreshBase;
 import com.handmark.pulltorefresh.library.PullToRefreshRecyclerView;
 import org.vackapi.mvplearn.R;
 import org.vackapi.mvplearn.mvp2.moudle.CanKingFactory;
+import org.vackapi.mvplearn.mvp2.presenter.CanKingPresenter;
 
 public class MVP2Activity extends AppCompatActivity implements CanKingViewOperater{
     private Toolbar toolbar_canKing;
