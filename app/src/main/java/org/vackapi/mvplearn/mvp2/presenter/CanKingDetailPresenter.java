@@ -29,11 +29,6 @@ public class CanKingDetailPresenter {
         getCanKingItem.enqueue(new Callback<CanKingDetail>() {
             @Override
             public void onResponse(Call<CanKingDetail> call, Response<CanKingDetail> response) {
-
-
-
-
-
                 canKingDetailViewOperater.onLoadComplete(response.body());
             }
 
