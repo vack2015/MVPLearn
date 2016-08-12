@@ -54,7 +54,6 @@
                 android:textSize="18sp"
                 android:textColor="#aaa"
                 android:text="感谢童话镇网络信息技术有限公司的数据"/>
-
         </LinearLayout>
 
     </ScrollView>

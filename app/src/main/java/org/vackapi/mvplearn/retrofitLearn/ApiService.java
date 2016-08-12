@@ -13,7 +13,6 @@ import retrofit2.http.Query;
 public interface ApiService {
     @GET("getearth_list")
     Call<CanKingList> getCanKingList(@Query("page") String page);
-
     @GET("getearth_single")
     Call<CanKingDetail> getCanKingDetail(@Query("id") String id);
 }
