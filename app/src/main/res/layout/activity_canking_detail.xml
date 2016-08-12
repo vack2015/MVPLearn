@@ -7,6 +7,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".mvp2.CanKingDetailActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_canKing_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:navigationIcon="@mipmap/lt"
+        app:title="揭露地球"/>
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -15,12 +21,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
-            <android.support.v7.widget.Toolbar
-                android:id="@+id/toolbar_canKing_detail"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:navigationIcon="@mipmap/lt"
-                app:title="揭露地球"/>
             <View
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
