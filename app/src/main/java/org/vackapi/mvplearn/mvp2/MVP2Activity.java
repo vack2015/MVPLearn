@@ -88,13 +88,13 @@ public class MVP2Activity extends AppCompatActivity implements CanKingViewOperat
     }
 
     @Override
-    public void onLoadComplete(int currentPage) {
+    public void onLoadComplete(int currentPage,int totalPage) {
         this.currentPage=currentPage;
-        Log.e("VACK","onLoadComplete" +currentPage);
+        Log.e("VACK","onLoadComplete" +currentPage+"/"+totalPage);
         ptrRecyclerView_canKing.post(new Runnable() {
             @Override
             public void run() {
-                Toast.makeText(getApplicationContext(),"onLoadComplete",Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(),"onLoadComplete" +currentPage+"/"+totalPage,Toast.LENGTH_LONG).show();
             }
         });
     }
@@ -112,7 +112,6 @@ public class MVP2Activity extends AppCompatActivity implements CanKingViewOperat
                 Toast.makeText(getApplicationContext(),"DataError"+e.toString(),Toast.LENGTH_LONG).show();
             }
         });
-
     }
 
     @Override

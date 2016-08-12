@@ -10,4 +10,10 @@ import java.util.ArrayList;
 public interface CanKingTaskPresenter {
     void addItem(int page);
     ArrayList<CanKingItem> getItemList();
+    void showNoMore();
+    void onLoading();
+    void showDataError(Exception e);
+    void onItemAdding();
+    void onItemAdded();
+    void onLoadComplete(int currentPage,int totalPage);
 }

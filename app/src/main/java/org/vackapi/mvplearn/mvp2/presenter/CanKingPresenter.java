@@ -28,11 +28,12 @@ public class CanKingPresenter implements CanKingTaskPresenter{
     private CanKingFactory canKingFactory;
     private OkHttpClient okHttpClient;
     public static final String GET_EARTH_LIST="http://www.princeblog.com/api/index/getearth_list";
-    private int currentPage=1,totalPage=2;
+
 
     public CanKingPresenter(CanKingViewOperater canKingViewOperater, CanKingFactory canKingFactory) {
         this.canKingViewOperater = canKingViewOperater;
         this.canKingFactory = canKingFactory;
+        canKingFactory.setCanKingPresenter(this);
         okHttpClient=new OkHttpClient();
         canKingViewOperater.getAdapter().setOnItemClickListener(new CanKingItemAdapter.OnItemClickListener() {
             @Override
@@ -44,53 +45,41 @@ public class CanKingPresenter implements CanKingTaskPresenter{
 
     @Override
     public void addItem(int page) {
-        if(page<totalPage){
-            load(page);
-        }else {
-            new Thread(new Runnable() {
-                @Override
-                public void run() {
-                    try {
-                        Thread.sleep(1500);
-                        canKingViewOperater.showNoMore();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                }
-            }).run();
-        }
+        canKingFactory.addItems(page);
     }
 
     @Override
     public ArrayList<CanKingItem> getItemList() {
         return canKingFactory.getData();
     }
-    private void load(int page){
-        Request reques=new Request.Builder().url(GET_EARTH_LIST+"?page="+page).get().build();
-        Call call=okHttpClient.newCall(reques);
+
+    @Override
+    public void showNoMore() {
+        canKingViewOperater.showNoMore();
+    }
+
+    @Override
+    public void onLoading() {
         canKingViewOperater.onLoading();
-        call.enqueue(new Callback() {
+    }
 
-            @Override
-            public void onFailure(Call call, IOException e) {
-                canKingViewOperater.showDataError(e);
-            }
+    @Override
+    public void showDataError(Exception e) {
+        canKingViewOperater.showDataError(e);
+    }
 
-            @Override
-            public void onResponse(Call call, Response response) throws IOException {
-                try {
-                    canKingViewOperater.onItemAdding();
-                    JSONObject jsonObject=new JSONObject(response.body().string());
-                    currentPage=jsonObject.getInt("page");
-                    totalPage=jsonObject.getInt("count");
-                    ArrayList<CanKingItem> data= new Gson().fromJson(jsonObject.getJSONArray("list").toString(),new TypeToken<ArrayList<CanKingItem>>(){}.getType());
-                    canKingFactory.addItem(data);
-                    canKingViewOperater.onItemAdded();
-                    canKingViewOperater.onLoadComplete(currentPage);
-                } catch (JSONException e) {
-                    canKingViewOperater.showDataError(e);
-                }
-            }
-        });
+    @Override
+    public void onItemAdding() {
+        canKingViewOperater.onItemAdding();
+    }
+
+    @Override
+    public void onItemAdded() {
+        canKingViewOperater.onItemAdded();
+    }
+
+    @Override
+    public void onLoadComplete(int currentPage, int totalPage) {
+        canKingViewOperater.onLoadComplete(currentPage,totalPage);
     }
 }

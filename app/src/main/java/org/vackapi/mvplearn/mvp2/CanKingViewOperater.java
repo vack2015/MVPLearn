@@ -8,7 +8,7 @@ public interface CanKingViewOperater {
     void onItemAdding();
     void onItemAdded();
     void onItemClick(int position);
-    void onLoadComplete(int currentPage);
+    void onLoadComplete(int currentPage,int totalPage);
     void showNoMore();
     void showDataError(Exception e);
     CanKingItemAdapter getAdapter();
