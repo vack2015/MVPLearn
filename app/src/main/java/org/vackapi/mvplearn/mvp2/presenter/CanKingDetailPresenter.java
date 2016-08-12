@@ -17,14 +17,15 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class CanKingDetailPresenter {
     private CanKingDetailViewOperater canKingDetailViewOperater;
 
+
     public CanKingDetailPresenter(CanKingDetailViewOperater canKingDetailViewOperater) {
         this.canKingDetailViewOperater = canKingDetailViewOperater;
     }
 
-    public void loadData(String id){
-        Retrofit retrofit=new Retrofit.Builder().addConverterFactory(GsonConverterFactory.create()).baseUrl(RetrofitLearnActivity.GET_EARTH_BASE).build();
-        ApiService apiService=retrofit.create(ApiService.class);
-        Call<CanKingDetail> getCanKingItem=apiService.getCanKingDetail(id);
+    public void loadData(String id) {
+        Retrofit retrofit = new Retrofit.Builder().addConverterFactory(GsonConverterFactory.create()).baseUrl(RetrofitLearnActivity.GET_EARTH_BASE).build();
+        ApiService apiService = retrofit.create(ApiService.class);
+        Call<CanKingDetail> getCanKingItem = apiService.getCanKingDetail(id);
         canKingDetailViewOperater.onStartLoad();
         getCanKingItem.enqueue(new Callback<CanKingDetail>() {
             @Override
@@ -35,6 +36,8 @@ public class CanKingDetailPresenter {
             @Override
             public void onFailure(Call<CanKingDetail> call, Throwable t) {
                 canKingDetailViewOperater.onFail(t);
+
+
             }
         });
     }
