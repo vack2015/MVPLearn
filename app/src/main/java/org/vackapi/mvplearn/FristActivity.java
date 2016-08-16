@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
+import org.vackapi.mvplearn.mvp3.MVP3Activity;
 import org.vackapi.mvplearn.retrofitLearn.RetrofitLearnActivity;
 import org.vackapi.mvplearn.rxjavalearn.RxJavaLearnActivity;
 import org.vackapi.mvplearn.mvp.MVPLearnActivity;
@@ -35,6 +36,9 @@ public class FristActivity extends AppCompatActivity {
     public void canKingMVP(View view){
         Intent intent=new Intent(getApplicationContext(),MVP2Activity.class);
         startActivity(intent);
-        Log.e("VACK","CLICK" );
+    }
+    public void mvpLearn3(View view){
+        Intent intent=new Intent(getApplicationContext(), MVP3Activity.class);
+        startActivity(intent);
     }
 }

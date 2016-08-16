@@ -7,14 +7,14 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
-        android:name="org.vackapi.mvplearn.App"
+        android:name=".App"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name="org.vackapi.mvplearn.FristActivity">
+        <activity android:name=".FristActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,15 +22,18 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="org.vackapi.mvplearn.rxjavalearn.RxJavaLearnActivity"
+            android:name=".rxjavalearn.RxJavaLearnActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="org.vackapi.mvplearn.mvp.MVPLearnActivity" />
+        <activity android:name=".mvp.MVPLearnActivity" />
         <activity
-            android:name="org.vackapi.mvplearn.mvp2.MVP2Activity"
+            android:name=".mvp2.MVP2Activity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="org.vackapi.mvplearn.retrofitLearn.RetrofitLearnActivity" />
-        <activity android:name="org.vackapi.mvplearn.mvp2.CanKingDetailActivity"
+        <activity android:name=".retrofitLearn.RetrofitLearnActivity" />
+        <activity
+            android:name=".mvp2.CanKingDetailActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".mvp3.MVP3Activity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

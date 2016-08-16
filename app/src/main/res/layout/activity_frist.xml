@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/click"
         android:onClick="retrofitLearn"
-        android:text="Retrofit" />
+        android:text="  Retrofit  " />
 
     <Button
         android:layout_width="wrap_content"
@@ -20,7 +20,7 @@
         android:background="@drawable/click"
         android:onClick="rxJavaLearn"
         android:layout_marginTop="16dp"
-        android:text="RxJava" />
+        android:text="  RxJava  " />
 
     <Button
         android:layout_width="wrap_content"
@@ -37,6 +37,14 @@
         android:background="@drawable/click"
         android:onClick="canKingMVP"
         android:text="MVP2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/click"
+        android:onClick="mvpLearn3"
+        android:text="MVP3" />
 
 
 </LinearLayout>
